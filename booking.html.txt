@@ -1,0 +1,32 @@
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muskogee Tours - Booking</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background: #4CAF50; padding: 15px; text-align: center; }
+        nav { display: flex; justify-content: center; background: #333; }
+        nav a { color: white; padding: 14px 20px; text-decoration: none; text-align: center; }
+        nav a:hover { background: #ddd; color: black; }
+        .button { background-color: #4CAF50; color: white; padding: 15px 32px; border: none; cursor: pointer; font-size: 16px; }
+        .call-us { font-size: 20px; margin: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Muskogee Tours - Booking</h1>
+        <p class="call-us"><a href="tel:931-314-9234" style="color: white; text-decoration: none;">Call Us: 931-314-9234</a></p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="booking.html">Booking</a>
+        <a href="about.html">About Us</a>
+        <a href="careers.html">Careers</a>
+        <a href="sitemap.html">Sitemap</a>
+    </nav>
+    <main>
+        <h2>Book Your
